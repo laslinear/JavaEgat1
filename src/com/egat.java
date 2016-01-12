@@ -19,6 +19,9 @@ public class egat {
         
         String msg1 = "";
         System.out.println(msg1);
+        
+        String aaa = null;
+        aaa = "bbb";
     }
     
 }
